@@ -1,0 +1,7 @@
+{"meta":{"updated":"2026-09-30","demo":true,"note":"Sample entries for layout only. Not real inventory."},
+"vehicles":[
+{"id":"demo-001","make":"Sample Make A","model":"Saloon Demo","year":2024,"body":"Saloon","power":"Petrol","trans":"Automatic","mileage":"12,000 km","status":"AVAILABLE","location":"To be confirmed","updated":"2026-09-30","image":"","desc":"Demonstration listing showing how a physically available vehicle appears. Replace with real stock."},
+{"id":"demo-002","make":"Sample Make B","model":"SUV Demo","year":2025,"body":"SUV","power":"Hybrid","trans":"Automatic","mileage":"New","status":"IN TRANSIT","location":"In transit","updated":"2026-09-29","image":"","desc":"Demonstration listing for a vehicle currently being shipped."},
+{"id":"demo-003","make":"Sample Make C","model":"Electric Demo","year":2025,"body":"Hatchback","power":"Electric","trans":"Automatic","mileage":"New","status":"ARRIVING","location":"Arriving","updated":"2026-09-28","image":"","desc":"Demonstration listing for a vehicle nearing arrival."},
+{"id":"demo-004","make":"Sample Make D","model":"Pickup Demo","year":2023,"body":"Pickup","power":"Diesel","trans":"Manual","mileage":"30,000 km","status":"SOURCING","location":"Not yet held by AXIS","updated":"2026-09-27","image":"","desc":"Demonstration of a sourcing-only listing. AXIS does not hold this vehicle."}
+]}
